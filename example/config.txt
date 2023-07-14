@@ -1,0 +1,2 @@
+Prefix plugins/ParseUnique/example
+Plugin ParseUnique inputfile Bacteria.txt outputfile uniqueBacteria.txt
